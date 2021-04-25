@@ -1,6 +1,6 @@
-# Remote Mix Guide
+# Remote Mix Guidelines for Bandnada
 
-This guides defines a consistent format and workflow for a remote mixer to transmit commands to the live mixer
+This guides defines a consistent format and workflow for a remote mixer to transmit commands to the location mixer
 
 ## Command format
 
